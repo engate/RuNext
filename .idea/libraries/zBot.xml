@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zBot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zBot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

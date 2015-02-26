@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Elyptic">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Elyptic.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
